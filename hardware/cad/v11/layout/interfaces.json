@@ -1,0 +1,302 @@
+{
+ "frame": "mm, +X front, +Y left, Z0 arena floor",
+ "rim": {
+  "a": 124.5,
+  "n": 4.0,
+  "diag_r": 148.06
+ },
+ "z": {
+  "rim": 0.5,
+  "pan": 1.5,
+  "roof_top": 10.9,
+  "collar_top": 16.9,
+  "skirt_top": 20.9,
+  "lip": 53.0,
+  "top": 65.6,
+  "axle": 23.4,
+  "motor_top": 35.9,
+  "fan_top": 56.9
+ },
+ "insets": {
+  "seal_out": 20.0,
+  "seal_in": 23.0,
+  "knee": 34.0,
+  "collar_in": 36.0,
+  "skirt_out": 36.4,
+  "skirt_in": 38.4,
+  "lip_widest": 36.13,
+  "flat_top": 42.28
+ },
+ "lean_deg": 7.5,
+ "lip_proud": 4.5,
+ "wheels": {
+  "L": {
+   "axle": [
+    "axle (14, 54.7, 23.40)"
+   ]
+  },
+  "R": {
+   "axle": [
+    "axle (-14, -54.7, 23.40)"
+   ]
+  }
+ },
+ "wells": {
+  "L": [
+   -11.9,
+   39.0,
+   39.9,
+   70.0
+  ],
+  "R": [
+   -39.9,
+   -70.0,
+   11.9,
+   -39.0
+  ]
+ },
+ "duct": {
+  "x": 57.0,
+  "y": 0,
+  "bore": 43.3,
+  "collar_d": 52.0,
+  "pcd": 60.0,
+  "bolt_deg": [
+   45,
+   135,
+   225,
+   315
+  ],
+  "seat_z": 10.9
+ },
+ "battery": {
+  "pack_bounds": [
+   -82.5,
+   -53.14,
+   -48.11,
+   53.14
+  ],
+  "floor_z": 10.9,
+  "slit": {
+   "y": [
+    -58,
+    75
+   ],
+   "z": [
+    10.9,
+    34.0
+   ]
+  }
+ },
+ "xt60": {
+  "face_x": -72,
+  "y": [
+   57.6,
+   73.16
+  ],
+  "z": [
+   15,
+   23.13
+  ]
+ },
+ "lid_fixings": [
+  [
+   70,
+   70
+  ],
+  [
+   -46,
+   72
+  ],
+  [
+   -50,
+   -73
+  ],
+  [
+   70,
+   -70
+  ]
+ ],
+ "tof": [
+  {
+   "tag": "F0",
+   "yaw": 0,
+   "x": 84.53,
+   "y": 0.0,
+   "z": 48.0
+  },
+  {
+   "tag": "F+25",
+   "yaw": 25,
+   "x": 84.2,
+   "y": 39.26,
+   "z": 48.0
+  },
+  {
+   "tag": "F-25",
+   "yaw": -25,
+   "x": 84.2,
+   "y": -39.26,
+   "z": 48.0
+  },
+  {
+   "tag": "L90",
+   "yaw": 90,
+   "x": 0.0,
+   "y": 84.53,
+   "z": 48.0
+  },
+  {
+   "tag": "R90",
+   "yaw": -90,
+   "x": 0.0,
+   "y": -84.53,
+   "z": 48.0
+  },
+  {
+   "tag": "B+25",
+   "yaw": 155,
+   "x": -83.94,
+   "y": 39.14,
+   "z": 50.0
+  },
+  {
+   "tag": "B-25",
+   "yaw": -155,
+   "x": -83.94,
+   "y": -39.14,
+   "z": 50.0
+  }
+ ],
+ "tcrt": [
+  {
+   "x": 77.96,
+   "y": 77.96
+  },
+  {
+   "x": 77.96,
+   "y": -77.96
+  },
+  {
+   "x": -77.96,
+   "y": 77.96
+  },
+  {
+   "x": -77.96,
+   "y": -77.96
+  }
+ ],
+ "hole_shrink": 0.21,
+ "architecture_note": "Base carries NOTHING above the roof plane Z 10.9 (prints roof-face-down, no support under the roof). Well walls + cheeks = 2 bolt-on carriers; rails + stop + XT60 bracket = 1 battery frame; fan lip seat recessed into a roof boss; no collar.",
+ "carrier_bosses": {
+  "L": [
+   [
+    -19,
+    32
+   ],
+   [
+    47,
+    32
+   ],
+   [
+    -19,
+    77
+   ],
+   [
+    47,
+    77
+   ]
+  ],
+  "R": [
+   [
+    -47,
+    -32
+   ],
+   [
+    19,
+    -32
+   ],
+   [
+    -47,
+    -77
+   ],
+   [
+    19,
+    -77
+   ]
+  ],
+  "note": "\u00d88.5 hanging bosses, \u00d84.15x6 pilots, at the well corners just outside the seal wall \u2014 CAD session to confirm against ribs/bosses"
+ },
+ "battery_frame_bosses": [
+  [
+   -60,
+   58
+  ],
+  [
+   -60,
+   -58
+  ],
+  [
+   -47,
+   0
+  ]
+ ],
+ "board_pilots": {
+  "A": [
+   [
+    31,
+    -50
+   ],
+   [
+    62,
+    -50
+   ],
+   [
+    31,
+    -41
+   ],
+   [
+    62,
+    -41
+   ]
+  ],
+  "B": [
+   [
+    -36.5,
+    47
+   ],
+   [
+    -26,
+    47
+   ],
+   [
+    -36.5,
+    56
+   ],
+   [
+    -26,
+    56
+   ]
+  ],
+  "bus": [
+   [
+    -42,
+    22.5
+   ],
+   [
+    -31,
+    34.5
+   ]
+  ]
+ },
+ "ttgo": {
+  "board_mm": [
+   62.3,
+   25.65,
+   6.88
+  ],
+  "with_pins_mm": 14.6,
+  "status": "MEASURED 12 Sep",
+  "mount": "-Y wellcap top, display up, pins down clipped to ~4 mm between two 4.5 mm cap rails"
+ }
+}

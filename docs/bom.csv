@@ -1,0 +1,29 @@
+Part number,Part name,Qty,Unit price (AUD),Line total (AUD),Source,Ordered by,Receipt kept?,Notes
+1005006160350568,XFLY 1413 40 mm 12-blade EDF KV5000,1,41.39,41.39,AliExpress (2 Sep order),,,One fan no spare
+1005011869750683,LittleBee Spring 30 A BLHeli_S ESC,1,13.91,13.91,AliExpress (2 Sep order),,,2-wire signal lead no BEC
+1005009324702642,DRV8871 motor driver module (3 pcs),1,12.49,12.49,AliExpress (2 Sep order),,,4 in hand in total: 2 in use 2 spare
+32828603866,MP1584EN 3 A buck,3,1.74,5.22,AliExpress (2 Sep order),,,4 in hand in total: 1 in use 1 burnt 2 spare
+1893663874,PCF8574 I2C IO expander,2,0.52,1.04,AliExpress (2 Sep order),,,Design uses one (lid)
+1005001593848689,TCRT5000 line sensor 5-pack,1,2.81,2.81,AliExpress (2 Sep order),,,Bare sensor used x4 + 1 spare
+1005001279983590,Amass XT60 pairs (5),1,5.54,5.54,AliExpress (2 Sep order),,,Pack Socket + Key Socket + loop key
+4000160682280,1S-8S LiPo voltage alarm,1,5.10,5.10,AliExpress (2 Sep order),,,Only low-voltage warning on the bot
+1005005963545987,Cap assortment 1000 uF / 220 uF 25 V (general-purpose),1,4.79,4.79,AliExpress (2 Sep order),,,Bus + driver caps until low-ESR set lands
+4000298907420,Silicone rubber sheet 1 mm 250 x 250,1,7.10,7.10,AliExpress (2 Sep order),,,Skirt
+1005006995172687,Feeler gauge 32 blade,1,5.49,5.49,AliExpress (2 Sep order),,,0.30 blade rim-height gauge (v11 has no scraper lip)
+1005010640249531,Ovonic AIR 3S 2200 mAh 120C XT60 (2-pack),1,39.59,39.59,AliExpress (2 Sep order),,,Substituted up from 1500 mAh at the ordered price. One on the bot
+,B3 Pro 2S/3S balance charger (AU plug),1,,,AliExpress (2 Sep order),,,~8-10 AUD per BOM.md
+,M3 heat-set inserts,1,,,AliExpress (2 Sep order),,,~4 AUD per BOM.md
+,16 AWG silicone wire red/black 1 m each,1,,,AliExpress (2 Sep order),,,~5 AUD per BOM.md
+,Blue threadlocker 10 mL,1,,,AliExpress (2 Sep order),,,~2 AUD per BOM.md
+,JGA25-371 12 V 130 rpm encoder gearmotor,2,,,Bought after the 2 Sep order,,,~55 AUD the pair per BOM.md. The drive pair
+,M3 x 8 button-head screws,4,,,Local,,,~2 AUD per BOM.md. Clamp ring to roof. Bought
+,M3 flat-head screws ~M3 x 8,4,,,Local,,,~2 AUD per BOM.md. Motor faceplate to carrier. Bought
+,3 mm EPDM sheet,1,,,Local,,,~5 AUD per BOM.md. Fan gasket. Bought
+,Low-ESR 105 C electrolytics 25 V (1000 uF x1 470 uF x1 220 uF x3),1,,,Ordered,,,Price unconfirmed
+,Schottky SS34 / 1N5819,1,,,Ordered,,,Price unconfirmed. Not fitted
+,JST-PH 6-pin pigtail pair,1,,,Ordered,,,Price unconfirmed. Lid Plug
+,Smooth-On Mold Star 15 SLOW 900 g,1,52.00,52.00,U Resin Maddington,,,Tyres. Collected
+,LilyGO T-Display S3 (non-touch),1,0.00,0.00,Existing stock,,n/a,$0 existing stock
+,VL53L0X ToF breakout (GY-VL53L0XV2),8,0.00,0.00,Existing stock,,n/a,7 in the design + 1 spare. $0 existing stock
+,Protoboard 160 x 63.8,1,0.00,0.00,Existing stock,,n/a,Cut into Board B / Board L. $0 existing stock
+,Filament (grams used not roll price),,,,On hand,,n/a,To be totalled from the print logs

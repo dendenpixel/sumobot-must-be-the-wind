@@ -1,0 +1,13 @@
+# CAD junk (keep the exported STL/STEP, not the lock/backup files)
+*.bak
+*.lck
+*~$*
+hardware/pcb/*-backups/
+hardware/pcb/fp-info-cache
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+logs/
+__pycache__/
